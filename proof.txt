@@ -1,0 +1,3 @@
+This file is created to demonstrate Git version control commands.
+DevOps practice – ProgressSoft task.
+
